@@ -1,1 +1,2 @@
-Official repo for TheValueServices official website: https://valueservices.us/
+live at: https://valueservices.us/
+developed by heroo
